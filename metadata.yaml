@@ -1,0 +1,37 @@
+_repo: Romantic-Ireland--volume-2-2_46439
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46439-h/images/cover_lg.jpg
+creator:
+  authors:
+  - agent_name: Mansfield, M. F. (Milburg Francisco)
+    aliases:
+    - Mansfield, Milburg Francisco
+    - Miltoun, Francis
+    - Mansfield, M.F
+    birthdate: 1871
+    gutenberg_agent_id: '31606'
+    url: http://www.gutenberg.org/2009/agents/31606
+  - agent_name: McManus, Blanche
+    aliases:
+    - MacManus, Blanche
+    - Mansfield, Blanche McManus
+    birthdate: 1869
+    deathdate: 1935
+    gutenberg_agent_id: '31610'
+    url: http://www.gutenberg.org/2009/agents/31610
+description: Illustrated by McManus.
+gutenberg_issued: '2014-07-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46439'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ireland -- Description and travel'
+- !lcc 'DA'
+title: Romantic Ireland; volume 2/2
+url: http://www.gutenberg.org/ebooks/46439
