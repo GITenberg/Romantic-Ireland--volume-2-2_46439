@@ -22,6 +22,8 @@ creator:
     gutenberg_agent_id: '31610'
     url: http://www.gutenberg.org/2009/agents/31610
 description: Illustrated by McManus.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46439#Romantic-Ireland--volume-2-2
 gutenberg_issued: '2014-07-28'
 gutenberg_type: Text
 identifiers:
